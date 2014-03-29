@@ -53,7 +53,7 @@ end
 
 # Allow SSH
 simple_iptables_rule "system" do
-  rule "-p tcp --dport 10122"
+  rule "-p tcp --dport 22"
   jump "ACCEPT"
 end
 
