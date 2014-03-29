@@ -1,4 +1,4 @@
 site_cookbooks
 ==============
 
-Template for makeing site cookbooks
+Template for making site cookbooks
